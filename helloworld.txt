@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 helloo world
 hey there
+=======
+helloo world, this is a text file..
+>>>>>>> 9d79acbd5f1e643297115e7516885adcf325038c
